@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Filter UI Components</title>
+    <link rel="stylesheet" href="static/css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <button class="toggle">
+        <img src="./assets/toggle.svg" alt="toggle" />
+      </button>
+      <div class="options-container">
+        <div class="controls-container controls-left">
+          <section class="top-controls">
+            <div class="input-container">
+              <input
+                type="checkbox"
+                name="show-weekends"
+                id="show-weekends"
+                class="checkbox"
+              />
+              <label for="show-weekends">Show Weekends</label>
+            </div>
+            <div class="input-container">
+              <input
+                type="checkbox"
+                name="show-activities"
+                id="show-activities"
+                class="checkbox"
+              />
+              <label for="show-activities">Show Activities</label>
+            </div>
+          </section>
+          <section class="middle-controls">
+            <p>DISPLAY</p>
+            <div class="input-container">
+              <input
+                type="radio"
+                name="display-option"
+                id="sort-date"
+                checked
+              />
+              <label for="sort-date">Sort by Start Date</label>
+            </div>
+            <div class="input-container">
+              <input type="radio" name="display-option" id="group-categories" />
+              <label for="group-categories">Group by Categories</label>
+            </div>
+          </section>
+          <section class="bottom-controls">
+            <a href="#">Set my hours</a>
+            <a href="#">Settings</a>
+          </section>
+        </div>
+        <div class="controls-container controls-right">
+          <section class="top-controls">
+            <div class="input-container">
+              <input
+                type="checkbox"
+                name="trello"
+                id="trello"
+                class="checkbox"
+              />
+              <label for="trello">Trello</label>
+            </div>
+            <div class="input-container">
+              <input type="checkbox" name="asana" id="asana" class="checkbox" />
+              <label for="asana">Asana</label>
+            </div>
+          </section>
+          <section class="bottom-controls">
+            <div class="input-container">
+              <input
+                type="checkbox"
+                name="incomplete-tasks"
+                id="incomplete-tasks"
+                class="switch-box"
+              />
+              <label for="incomplete-taks">Incomplete tasks</label>
+            </div>
+            <div class="input-container">
+              <input
+                type="checkbox"
+                name="incomplete-stories"
+                id="incomplete-stories"
+                class="switch-box"
+              />
+              <label for="incomplete-stories">Incomplete stories</label>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+
+    <script src="./static/bundle/script.js"></script>
+  </body>
+</html>

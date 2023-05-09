@@ -1,0 +1,135 @@
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="62"
+        height="62"
+        viewBox="0 0 62 62"
+      >
+        <g id="Group_8" data-name="Group 8" transform="translate(-772 -336)">
+          <rect
+            id="Rectangle_7"
+            data-name="Rectangle 7"
+            width="62"
+            height="62"
+            rx="10"
+            transform="translate(772 336)"
+            fill="#fff"
+          />
+          <g
+            id="Group_7"
+            data-name="Group 7"
+            transform="translate(781.165 345.165)"
+          >
+            <path
+              id="Path_3"
+              data-name="Path 3"
+              d="M0,0H43.669V43.669H0Z"
+              fill="none"
+            />
+            <circle
+              id="Ellipse_1"
+              data-name="Ellipse 1"
+              cx="4"
+              cy="4"
+              r="4"
+              transform="translate(21.835 6.835)"
+              fill="none"
+              stroke="#252846"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="3"
+            />
+            <line
+              id="Line_1"
+              data-name="Line 1"
+              x2="15"
+              transform="translate(6.835 10.835)"
+              fill="none"
+              stroke="#252846"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="3"
+            />
+            <line
+              id="Line_2"
+              data-name="Line 2"
+              x2="7"
+              transform="translate(29.835 10.835)"
+              fill="none"
+              stroke="#252846"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="3"
+            />
+            <circle
+              id="Ellipse_2"
+              data-name="Ellipse 2"
+              cx="4"
+              cy="4"
+              r="4"
+              transform="translate(10.835 17.835)"
+              fill="none"
+              stroke="#252846"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="3"
+            />
+            <line
+              id="Line_3"
+              data-name="Line 3"
+              x2="4"
+              transform="translate(6.835 21.835)"
+              fill="none"
+              stroke="#252846"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="3"
+            />
+            <line
+              id="Line_4"
+              data-name="Line 4"
+              x2="18"
+              transform="translate(18.835 21.835)"
+              fill="none"
+              stroke="#252846"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="3"
+            />
+            <circle
+              id="Ellipse_3"
+              data-name="Ellipse 3"
+              cx="4"
+              cy="4"
+              r="4"
+              transform="translate(26.835 28.835)"
+              fill="none"
+              stroke="#252846"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="3"
+            />
+            <line
+              id="Line_5"
+              data-name="Line 5"
+              x2="20"
+              transform="translate(6.835 32.835)"
+              fill="none"
+              stroke="#252846"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="3"
+            />
+            <line
+              id="Line_6"
+              data-name="Line 6"
+              x2="2"
+              transform="translate(34.835 32.835)"
+              fill="none"
+              stroke="#252846"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="3"
+            />
+          </g>
+        </g>
+      </svg>
